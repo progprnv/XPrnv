@@ -1,5 +1,7 @@
 # XssPrnv - Manual XSS Testing Tool
 
+![XssPrnv](https://raw.githubusercontent.com/progprnv/XssPrnv/main/thumbnail.png)
+
 ![image](https://github.com/user-attachments/assets/5914e7cf-5591-4266-9cb8-06c68dd7058d)
 
 
