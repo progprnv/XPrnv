@@ -1,7 +1,6 @@
 # XssPrnv
 
-XssPrnv is a GUI-based tool designed for automated Cross-Site Scripting (XSS) vulnerability testing, which makes manual testing easier since automated scans may miss triggers.  Users can input a target domain and query parameter to generate a list of URLs with XSS payloads to test for vulnerabilities.
-
+XssPrnv is a versatile tool designed for Cross-Site Scripting (XSS) vulnerability testing, available in both GUI and terminal interfaces. It simplifies manual testing, addressing the limitations of automated scans that may miss certain triggers. Users can input a target domain and query parameter to generate a comprehensive list of URLs containing various XSS payloads for vulnerability assessment.
 ## Features
 
 - **Input Field for Domain**: Users enter the target URL they want to test.
