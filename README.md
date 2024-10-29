@@ -1,6 +1,6 @@
 # XssPrnv
 
-XssPrnv is a Flask-based web application designed for automated Cross-Site Scripting (XSS) vulnerability testing. Users can input a target domain and query parameter to generate a list of URLs with XSS payloads to test for vulnerabilities.
+XssPrnv is a GUI-based tool designed for automated Cross-Site Scripting (XSS) vulnerability testing, which makes manual testing easier since automated scans may miss triggers.  Users can input a target domain and query parameter to generate a list of URLs with XSS payloads to test for vulnerabilities.
 
 ## Features
 
