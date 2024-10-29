@@ -3,6 +3,7 @@ import urllib.parse
 
 app = Flask(__name__)
 
+
 # List of 50+ XSS payloads
 XSS_PAYLOADS = [
     '<img src=123>', '<a href="javascript:alert(document.domain)">xss</a>',
