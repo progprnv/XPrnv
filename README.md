@@ -1,4 +1,4 @@
-# XssPrnv
+# XssPrnv - Manual XSS Testing Tool
 
 XssPrnv is a versatile tool designed for Cross-Site Scripting (XSS) vulnerability testing, available in both GUI and terminal interfaces. It simplifies manual testing, addressing the limitations of automated scans that may miss certain triggers. Users can input a target domain and query parameter to generate a comprehensive list of URLs containing various XSS payloads for vulnerability assessment.
 ## Features
@@ -51,6 +51,9 @@ If you input:
 - **Parameter Name**: `query`
 
 The generated list might look like:
+
+![image](https://github.com/user-attachments/assets/fce5e560-7593-4ec8-b2f7-4f7c9f843e12)
+
 
 ```
 https://example.com?query=%3Cscript%3Ealert(1)%3C%2Fscript%3E
