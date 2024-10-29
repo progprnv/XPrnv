@@ -16,7 +16,7 @@ XssPrnv is a versatile tool designed for Cross-Site Scripting (XSS) vulnerabilit
    ```bash
    git clone https://github.com/progprnv/XssPrnv
    cd XssPrnv
-   python xssprnv.py
+   python XssPrnv.py
    ```
    
 **-------Running the tool in GUI MODE-------**
@@ -24,7 +24,7 @@ XssPrnv is a versatile tool designed for Cross-Site Scripting (XSS) vulnerabilit
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/progprnv/XssPrnv
-   cd xss-testing-tool
+   cd XssPrnv
    ```
 2. **Install Dependencies**: Install Flask via pip:
    ```bash
